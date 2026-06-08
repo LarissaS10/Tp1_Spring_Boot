@@ -22,7 +22,7 @@ Spring Web
 bash cd calculadora-simples
 
 3. Execute a aplicação:
-bash./mvnw spring-boot:run
+bash ./mvnw spring-boot:run
 
 4. Acesse no navegador:
 http://localhost:8080
@@ -36,7 +36,6 @@ Todos os endpoints aceitam GET e POST.
 📌 Exemplos de Uso
 
 Adição (GET):
-
 GET http://localhost:8080/calculadora/somar?a=10&b=5
 Resposta: Resultado da adição: 15.0
 
