@@ -8,9 +8,9 @@ A Calculadora Simples disponibiliza cinco endpoints REST para as operações de 
 
 🛠️ Tecnologias Utilizadas
 
-Java 17
-Spring Boot 3.2
-Maven
+Java 17,
+Spring Boot 3.2,
+Maven,
 Spring Web
 
 
